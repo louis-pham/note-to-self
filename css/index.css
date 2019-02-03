@@ -1,0 +1,63 @@
+html {
+  font-family: 'Pangolin', cursive;
+  font-size: 1.8em;
+  line-height: 1.7em;
+  text-align: center;
+  background: #eee;
+  color: rgb(0,0,0);
+  color: rgba(0,0,0,.84);
+}
+
+
+body {
+  margin: 0;
+}
+h1 {
+  font-size: 2.5em;
+}
+
+img {
+  width: 100%;
+  max-width: 700px;
+}
+
+button {
+  padding: 4px 8px;
+  font-weight: bold;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #a7a7a7;
+  border-radius: 4px;
+  font-size: .6em;
+  cursor: pointer;
+}
+
+button:active {
+  border-style: inset;
+}
+
+footer {
+  background-color: #343548;
+  text-align: right;
+  padding: 3px 15px;
+}
+
+a {
+  color: #6073ff;
+  text-decoration: none;
+}
+
+.landing {
+  padding: 300px;
+  background-color: #343548;
+  color: #e8e8e8;
+}
+
+.yojijukugo {
+  font-family: 'Kosugi Maru', sans-serif;
+  font-size: 2em;
+}
+
+.wall-of-text {
+  padding: 20px;
+}
